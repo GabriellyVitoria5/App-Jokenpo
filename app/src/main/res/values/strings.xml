@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JogoJokenpo</string>
+    <string name="txt_jokenpo">Jokenpô</string>
+    <string name="txt_sua_escolha">Sua escolha: </string>
+    <string name="txt_escolha_cpu">Escolha CPU: </string>
+    <string name="txt_jogada">...</string>
+    <string name="txt_placar">Você X CPU</string>
+    <string name="txt_resultado">0</string>
+    <string name="txt_divisao_resultado">:</string>
+    <string name="btn_nova_partia">Nova Partida</string>
+</resources>
